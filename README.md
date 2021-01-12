@@ -1,9 +1,11 @@
 ## DESCRIPTION
 
-My first web app. Created only to get familiar with react. \
-It fetches 1 API and displays robots accordingly to it.
+App that can detect faces in your image. \
+Open: https://smart-brain-romasik.herokuapp.com/ \
+Login/register - It's possible to login with just username: 1 and password: 1 \
+Then insert URL into the searchbar and click 'Detect 
 
-## QUICK START
+## LOCAL QUICK START
 
 Clone the repository using `git clone` command and the repository link. \
 `cd` into cloned repository. \
